@@ -19,7 +19,7 @@ if(isset($_SESSION['username'])){
 </tr>
 </table>
 <br><br><br><br><br><br><br><br><br>
-<a href="index.php"> click here to go to the home page </a>
+<a href="../index.php"> click here to go to the home page </a>
 </table> </center>
 </body>
 </html>
